@@ -1,0 +1,12 @@
+# Bibliografía
+- [Naciones Unidas - ODS](https://www.un.org/sustainabledevelopment/es/)
+- [Unión Internacional de Telecomunicaciones (UIT)](https://www.itu.int/es/ITU-D/Environment/Pages/ICTs-Climate-Change.aspx)  
+- [Organización para la Cooperación y el Desarrollo Económicos (OCDE)](https://www.oecd.org/es/)
+- [Naciones_Unidas_Desarrollo_Sostenible](https://www.un.org/es/impacto-académico/pageobjetivos-de-desarrollo-sostenible)
+- [Chat_gpt](https://openai.com/index/chatgpt/)
+- [Wikipedia](https://es.wikipedia.org/wiki/Tecnologías_de_la_información_y_la_comunicación?utm_source=chatgpt.com)
+- [ImagenODS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANO_-_ODS_Objectius_Desenvolupament_Sostenible_Respon.cat_SDG_Icons_CAT_Poster_A4.jpg&psig=AOvVaw3vZCoGoC7JIGTWBVLs4Pte&ust=1741853899944000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMC17MmNhIwDFQAAAAAdAAAAABAI)
+- [Imagen Metas](https://commons.wikimedia.org/wiki/File:Innovactoras_y_objetivos_ODS_Agenda_2030.png)
+- [Imagen ODS2]([../img_pisa3_Grupo2_apellido1/imagenODS.jpg](https://www.energiaysociedad.es/wp-content/uploads/2023/12/WALDLUFT_Was-sind-SDGs.jpg))
+- [Programa naciones Unidas](https://www.unep.org)
+- [Fundacion Ellen MacArthur](https://www.ellenmacarthurfoundation.org)
